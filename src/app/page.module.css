@@ -1,0 +1,15 @@
+.container {
+  margin: 50px 0px 0px 20px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.list {
+  color: aliceblue;
+}
+
+.bookImg {
+  margin: 50px 0px 0px 20px;
+  height: 500px;
+}

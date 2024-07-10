@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "id": "101",
+      "title": "Call of the Wild",
+      "author": "Jack London",
+      "price": "$25",
+      "photo": "https://images2.penguinrandomhouse.com/cover/9781101105245"
+    },
+    {
+      "id": "102",
+      "title": "Tom Suwer",
+      "author": "Mark Twain",
+      "price": "$20",
+      "photo": "https://m.media-amazon.com/images/I/71l6aEDzaFS._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "103",
+      "title": "Treasure Island",
+      "author": "Robert Stevenson",
+      "price": "$25",
+      "photo": "https://d28hgpri8am2if.cloudfront.net/book_images/cvr9780689832123_9780689832123_hr.jpg"
+    },
+    {
+      "id": "104",
+      "title": "Sherlock Holmes",
+      "author": "Arthur Conacn Doyle",
+      "price": "$30",
+      "photo": "https://m.media-amazon.com/images/I/51071nF0pTL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}
